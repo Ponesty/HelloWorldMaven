@@ -14,7 +14,6 @@
     </dependencies>
 
     <build>
-        <finalName>foo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
